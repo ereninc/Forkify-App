@@ -1,5 +1,4 @@
 import BaseView from './baseView.js';
-import icons from 'url:../../img/icons.svg'; //Parcel 2
 
 class BookmarksView extends BaseView {
   _parentElement = document.querySelector('.bookmarks__list');
